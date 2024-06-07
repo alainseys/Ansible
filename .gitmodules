@@ -1,0 +1,3 @@
+[submodule "roles/linux/user-management"]
+	path = roles/linux/user-management
+	url = git@github.com:alainseys/user-management.git
