@@ -7,3 +7,6 @@
 [submodule "roles/linux/unattended-updates"]
 	path = roles/linux/unattended-updates
 	url = git@github.com:alainseys/unattended-updates.git
+[submodule "roles/linux/ssl-deployment"]
+	path = roles/linux/ssl-deployment
+	url = git@github.com:alainseys/ssl-deployment.git
