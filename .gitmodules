@@ -1,3 +1,6 @@
 [submodule "roles/linux/user-management"]
 	path = roles/linux/user-management
 	url = git@github.com:alainseys/user-management.git
+[submodule "roles/linux/firewall-management"]
+	path = roles/linux/firewall-management
+	url = git@github.com:alainseys/firewall-management.git
