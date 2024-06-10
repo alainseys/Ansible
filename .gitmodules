@@ -4,3 +4,6 @@
 [submodule "roles/linux/firewall-management"]
 	path = roles/linux/firewall-management
 	url = git@github.com:alainseys/firewall-management.git
+[submodule "roles/linux/unattended-updates"]
+	path = roles/linux/unattended-updates
+	url = git@github.com:alainseys/unattended-updates.git
