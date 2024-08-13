@@ -4,3 +4,6 @@
 [submodule "roles/vcenter-create-linux-vm"]
 	path = roles/vcenter-create-linux-vm
 	url = git@github.com:alainseys/vcenter-create-linux-vm.git
+[submodule "roles/vcenter-create-snapshot"]
+	path = roles/vcenter-create-snapshot
+	url = git@github.com:alainseys/vcenter-create-snapshot.git
