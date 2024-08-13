@@ -1,0 +1,6 @@
+- name: Create snapshot of vm
+  hosts: all
+  vars_files:
+    - ../vault.yml
+  roles:
+    - create-snapshot
