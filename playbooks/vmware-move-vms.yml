@@ -1,0 +1,7 @@
+- name: Move list of vms
+  hosts: all
+  vars_files:
+    - ../vault.yml
+  roles:
+    - move-list-vms
+
