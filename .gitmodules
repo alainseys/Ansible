@@ -7,3 +7,6 @@
 [submodule "roles/vcenter-create-snapshot"]
 	path = roles/vcenter-create-snapshot
 	url = git@github.com:alainseys/vcenter-create-snapshot.git
+[submodule "roles/vcenter-move-list-vms"]
+	path = roles/vcenter-move-list-vms
+	url = git@github.com:alainseys/vcenter-move-list-vms.git
