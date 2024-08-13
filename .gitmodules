@@ -1,0 +1,3 @@
+[submodule "roles/vcenter-assign-tag"]
+	path = roles/vcenter-assign-tag
+	url = git@github.com:alainseys/vcenter-assign-tag.git
