@@ -1,3 +1,6 @@
 [submodule "roles/vcenter-assign-tag"]
 	path = roles/vcenter-assign-tag
 	url = git@github.com:alainseys/vcenter-assign-tag.git
+[submodule "roles/vcenter-create-linux-vm"]
+	path = roles/vcenter-create-linux-vm
+	url = git@github.com:alainseys/vcenter-create-linux-vm.git
