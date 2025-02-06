@@ -1,0 +1,10 @@
+- name: Share folders on the SAN-FILE host
+  hosts: fileserver01
+  gather_facts: false
+  tasks:
+    - name: Share fileshare01
+      ansible.windows.win_share:
+        name: fileshare01
+        description: share fileshare01
+        path: 'C:\Temp\fileshare01'
+        full: 'DOMAIN\Domain Admins'
